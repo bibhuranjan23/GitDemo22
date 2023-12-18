@@ -15,6 +15,9 @@ namespace GitDemo22
             Console.WriteLine("B");
             Console.WriteLine("C");
             Console.WriteLine("FG");
+             Console.WriteLine("D");
+            Console.WriteLine("E");
+            Console.WriteLine("F");
         }
     }
 }
