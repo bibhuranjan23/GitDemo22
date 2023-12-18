@@ -11,6 +11,9 @@ namespace GitDemo22
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to C#");
+            Console.WriteLine("A");
+            Console.WriteLine("B");
+            Console.WriteLine("C");
         }
     }
 }
